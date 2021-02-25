@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6bce3d3-56a6-47cb-8a34-d72e5624760b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ouGa5cK6DWaH4rl6TOrpnS7bJK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/links_flutter" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\johnt\Desktop\pass\pass\lib\screens" />
+      <recent name="C:\Users\johnt\Desktop\pass\pass\lib\src" />
+      <recent name="C:\Users\johnt\Desktop\pass\pass\lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6bce3d3-56a6-47cb-8a34-d72e5624760b" name="Default Changelist" comment="" />
+      <created>1614129121669</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614129121669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="219" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614172908244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="219" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614172908244" />
+    <state x="100" y="100" width="1336" height="624" key="AVDManager" timestamp="1614173260539">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1614173260539" />
+    <state x="496" y="108" key="FileChooserDialogImpl" timestamp="1614189170709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614189170709" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1614129354479">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614129354479" />
+  </component>
+</project>
